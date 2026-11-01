@@ -8,6 +8,12 @@ Brew Log (Brewlog) is a personal coffee journal published by Pocketful Studio. T
 
 Brew Log does not require an account. Coffee beans, equipment, brew parameters, ratings, tasting notes, preferences, and photos are stored locally on your device. We do not operate a server that receives this journal data. We do not sell your data, use advertising trackers, or include app analytics or third-party crash-reporting services.
 
+## Personalised brewing recommendations
+
+Brew Log uses the coffee preferences, brewing parameters, equipment details, and ratings you enter to personalise brewing recommendations on your device. This processing does not require uploading your journal.
+
+We plan to offer optional data sharing to further personalise brewing recommendations. This feature is not enabled in the current app. If introduced, shared brewing data would be used to analyse which recipes suit your preferences and improve recommendation quality. Before any uploads begin, we will explain what data is sent, who processes it, how long it is kept, and how to withdraw consent or request deletion, and ask you to opt in.
+
 ## Photos and permissions
 
 Camera access is used when you choose to photograph a coffee bag. Photo-library access is used to select images and, with your permission, save photos taken in Brew Log to your photo library. You can manage these permissions in your device settings. Denying access may limit the corresponding photo features.
