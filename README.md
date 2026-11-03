@@ -4,17 +4,35 @@
 
 # Brew Log by Pocketful Studio
 
-**Remember the recipe. Repeat the ritual.**
+**Will I like this coffee?**
 
-Your coffee journal, with a little help from Pocketful Studio. Keep your beans, recipes and tasting notes together, so your next cup can start with what worked.
+Check your next bag against the coffees you already love. Photograph a coffee bag, or enter its details. Brew Log uses your past ratings and taste preferences to show a personal match, explain the history behind it and suggest a way to brew it when a suitable past brew is available.
 
-Hello, we’re Pocketful Studio. We make small apps for everyday rituals. Brew Log is our place for the little details behind a good cup: the bag you opened, the grind you settled on and the flavours you’d like to find again. It’s currently in TestFlight, and your feedback helps us shape what comes next.
+The percentage is a taste-match score, not a probability or a prediction accuracy claim. Your history and preferences shape the result.
+
+[See the matching example on the Brew Log website](https://pocketfulstudio-apps.github.io/brewlog-privacy/).
+
+Hello, we’re Pocketful Studio. We make small apps for everyday rituals. Brew Log helps turn the coffees you have enjoyed into useful context for the next bag you are considering. The journal keeps the ratings, recipes and tasting notes that make those recommendations personal. It’s currently in TestFlight, and your feedback helps us shape what comes next.
 
 ### Make yourself at home
 
 [Visit the Brew Log website](https://pocketfulstudio-apps.github.io/brewlog-privacy/) · [FAQ & help](#frequently-asked-questions) · [Privacy policy](#privacy-policy) · [Email Pocketful Studio](mailto:pocketfulstudio.apps@gmail.com)
 
 ## Frequently asked questions
+
+<details>
+<summary><strong>How does “Will I like this coffee?” work?</strong></summary>
+
+Photograph the bag or enter its origin, process, roast and tasting notes. Brew Log compares those details with coffees you have rated and your taste answers, then shows a personal match score and the history behind it. Where it has a suitable highly rated brew, it also suggests a drink or method and ratio. The score is a taste-match indicator, not the probability that you will enjoy the coffee or a measured prediction accuracy.
+
+</details>
+
+<details>
+<summary><strong>Can I check a coffee before I have rated any brews?</strong></summary>
+
+Yes. Start with the short taste questions. Early matches use those answers and are limited by the evidence available. As you add rated brews, your real history takes more weight. If there is not enough relevant information, Brew Log says so rather than promising a reliable match.
+
+</details>
 
 <details>
 <summary><strong>How do I log my first cup?</strong></summary>
@@ -48,13 +66,6 @@ With pre-infusion enabled, start the timer when you start the pump, then mark wh
 <summary><strong>What is a batch, and why freeze dates?</strong></summary>
 
 A bean is the coffee; a batch is a particular bag of it. Buying the same coffee again can add a batch without creating a duplicate bean. Roast dates belong to batches. If you record a freeze date, Brew Log pauses its off-roast day count from that date; it is a journal aid, not a measurement of freshness.
-
-</details>
-
-<details>
-<summary><strong>How does “Will I like it?” work?</strong></summary>
-
-It compares the coffee details with preferences and rated brews saved on your device to estimate how well a coffee might suit you. More useful ratings give it more context. Taste is personal: treat the result as a starting point, not a promise.
 
 </details>
 

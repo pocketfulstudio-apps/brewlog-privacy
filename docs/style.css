@@ -71,3 +71,6 @@ footer img { height: 34px; width: auto; display: block; margin: 0 auto 8px; }
   .top img { height: 36px; }
   h1 { font-size: 26px; }
 }
+
+/* History-based matching is the campaign focus; retain the current OneTake-style page. */
+.lead{font-size:23px;line-height:1.4;font-weight:600;margin:20px 0}.match-story{display:grid;grid-template-columns:minmax(0,.95fr) minmax(0,1.05fr);gap:28px;align-items:start;margin:30px 0}.match-story figure{margin:0}.match-story img{display:block;width:100%;height:auto}.match-story figcaption{font-size:13px;line-height:1.5;margin-top:12px;color:var(--muted)}.match-story h2:first-child{margin-top:0}.match-story h2{font-size:20px}.match-story .meta{margin-top:22px}@media(max-width:600px){.match-story{grid-template-columns:1fr;gap:24px}.match-story figure{max-width:330px;margin:auto}.lead{font-size:21px}}
