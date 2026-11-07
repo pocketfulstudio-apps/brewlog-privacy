@@ -121,14 +121,14 @@ Delete individual records using the app’s controls. To remove all local app da
 <details>
 <summary><strong>Is Brew Log available to everyone yet?</strong></summary>
 
-Brew Log is currently being tested through TestFlight. Features may change between builds. If you already have an invitation, open it in TestFlight. To ask about joining, email Pocketful Studio. There is no public App Store download link on this page yet.
+Brew Log is currently being tested through TestFlight, and anyone with an iPhone can join through the public beta link: https://testflight.apple.com/join/jrJ8ywm3. Install Apple’s TestFlight app first, then open the link. Features may change between builds. The App Store release will follow the beta.
 
 </details>
 
 <details>
-<summary><strong>Is Brew Log free? Are there subscriptions?</strong></summary>
+<summary><strong>Is Brew Log free? Is there a subscription?</strong></summary>
 
-The current TestFlight beta is available to invited testers without a Brew Log subscription. We have not announced final App Store pricing. If that changes, we will explain the price and included features before asking you to buy.
+Brew Log is free to download, and the free version is a complete coffee journal: log brews, read bean labels, share brew cards and see the current week in the coffee calendar. Brew Log Pro is an optional monthly subscription. It adds unlimited active beans, unlimited “Will I like it?” checks (the free version includes 3 a day), smart suggestions, your full brew history and the whole coffee calendar with month and year cards. In Australia, Pro costs A$7.99 a month for the first 3 months, then A$14.99 a month. Other countries see their local price in the app before buying. Pro renews each month until you cancel, which you can do at any time in your Apple ID subscription settings. During the TestFlight beta, purchases use Apple’s test system and you are not charged.
 
 </details>
 
