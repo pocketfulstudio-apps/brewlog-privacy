@@ -51,7 +51,7 @@ Yes. Open a saved brew and choose Brew again. Brew Log carries its settings into
 <details>
 <summary><strong>Does it work for espresso and filter?</strong></summary>
 
-Yes. Espresso and milk drinks have their own fields. Filter brewing supports methods such as V60 and AeroPress, with water weight, bloom and total brew time. Choose your drink first so the form fits your cup.
+Yes. Choose how you extracted it first: Espresso, Ristretto, Lungo, Filter or Other, and the form fits your cup. Espresso and milk drinks have their own fields, with optional pressure in bar. Filter brewing covers the Hario V60, Kalita, Origami, AeroPress, French press and batch brew, with water weight, bloom and total brew time. Anything else, such as a moka pot, goes under Other, which shows every gear field.
 
 </details>
 
@@ -66,6 +66,27 @@ With pre-infusion enabled, start the timer when you start the pump, then mark wh
 <summary><strong>What is a batch, and why freeze dates?</strong></summary>
 
 A bean is the coffee; a batch is a particular bag of it. Buying the same coffee again can add a batch without creating a duplicate bean. Roast dates belong to batches. If you record a freeze date, Brew Log pauses its off-roast day count from that date; it is a journal aid, not a measurement of freshness.
+
+</details>
+
+<details>
+<summary><strong>What is the caffeine nudge?</strong></summary>
+
+An optional reminder each morning, set in Settings. It starts at 7:30 and then moves to when you usually brew, and it names a coffee worth a turn. A morning you have already logged gets none. Brew Log only asks for notification permission when you switch it on, and the reminders are scheduled on your phone; no server sends them.
+
+</details>
+
+<details>
+<summary><strong>Which languages does Brew Log speak?</strong></summary>
+
+English and Simplified Chinese. There is also a bilingual mode that shows Chinese with the English coffee terms beside it. Change it any time in Settings.
+
+</details>
+
+<details>
+<summary><strong>How do coffee photos work?</strong></summary>
+
+Each brew can have a photo of your cup. The camera opens with a square viewfinder, and a photo from your library opens in a square frame you can drag and pinch to choose the part you want. The full-size square is also saved to your photo library. Tap any coffee or bag photo to see it full screen and pinch to zoom.
 
 </details>
 
@@ -86,14 +107,14 @@ It depends on the device, operating system and installed build. On iPhone, the c
 <details>
 <summary><strong>Do I need an account or an internet connection?</strong></summary>
 
-No account is required. The core journal and on-device recommendations work offline. Opening support links, sending feedback, downloading app updates and some platform services need a connection.
+No account is required. The core journal and on-device recommendations work offline. On iPhone, your journal backs itself up to your own iCloud whenever there is a connection. Opening support links, sending feedback, downloading app updates and some platform services need a connection.
 
 </details>
 
 <details>
 <summary><strong>Are my coffees and photos uploaded?</strong></summary>
 
-The current app does not automatically send your journal or photos to Pocketful Studio. Label reading, photo cutouts and brewing recommendations are processed on your device. Sharing is your choice. Apple handles TestFlight diagnostics separately; see the privacy policy for the details.
+Never to Pocketful Studio. On iPhone, Brew Log backs your journal and its photos up to your own iCloud, which only you can open; we run no server that receives them. Label reading, photo cutouts and brewing recommendations are processed on your device. Sharing is your choice. Apple handles TestFlight diagnostics separately; see the privacy policy for the details.
 
 </details>
 
@@ -105,16 +126,16 @@ Yes. Use the sharing options on a brew. A recipe shares selected coffee, gear an
 </details>
 
 <details>
-<summary><strong>Will my journal sync to another phone?</strong></summary>
+<summary><strong>Is my journal backed up?</strong></summary>
 
-Brew Log does not currently provide its own cloud sync, account recovery or automatic journal export. Your operating system may include local app data in a device backup, depending on your settings. Check that backup before changing phones. Recipe sharing is not a full journal backup.
+Yes, on iPhone. Each time you leave the app, Brew Log saves a copy of your journal and its photos to your own iCloud, as long as iCloud Drive is on. Settings › Backup shows when it last ran. On a new iPhone, or after reinstalling, sign in to the same Apple Account and Brew Log offers to bring the backup back. The backup counts toward your iCloud storage. iCloud keeps one Brew Log backup; it is not live sync between two devices. Android builds do not have automatic backup yet.
 
 </details>
 
 <details>
 <summary><strong>How do I delete my data?</strong></summary>
 
-Delete individual records using the app’s controls. To remove all local app data on iPhone, choose Delete App, rather than Offload App. Photos saved in your photo library, shared copies and device backups are separate and must be managed there. We cannot recover a journal stored only on your device.
+Delete individual records using the app’s controls. To remove all local app data on iPhone, choose Delete App, rather than Offload App. To delete the iCloud backup as well, open Settings › your name › iCloud › Manage Storage, choose Brew Log and delete its data. Photos saved in your photo library and shared copies are separate and must be managed there. We cannot see, recover or delete your journal or its backup: they are yours.
 
 </details>
 
@@ -128,7 +149,7 @@ Brew Log is currently being tested through TestFlight, and anyone with an iPhone
 <details>
 <summary><strong>Is Brew Log free? Is there a subscription?</strong></summary>
 
-Brew Log is free to download, and the free version is a complete coffee journal: log brews, read bean labels, share brew cards and see the current week in the coffee calendar. Brew Log Pro is an optional monthly subscription. It adds unlimited active beans, unlimited “Will I like it?” checks (the free version includes 3 a day), smart suggestions, your full brew history and the whole coffee calendar with month and year cards. In Australia, Pro costs A$7.99 a month for the first 3 months, then A$14.99 a month. Other countries see their local price in the app before buying. Pro renews each month until you cancel, which you can do at any time in your Apple ID subscription settings. During the TestFlight beta, purchases use Apple’s test system and you are not charged.
+Brew Log is free to download, and the free version is a complete coffee journal: log brews, read bean labels, share brew cards and see the current week in the coffee calendar. Brew Log Pro is an optional monthly subscription. It adds unlimited active beans, unlimited “Will I like it?” checks (the free version includes 3 a day), smart suggestions, your full brew history and the whole coffee calendar with month and year cards. In Australia, Pro costs A$4.99 a month for the first 3 months, then A$10.99 a month. Other countries see their local price in the app before buying. Pro renews each month until you cancel, which you can do at any time in your Apple ID subscription settings. During the TestFlight beta, purchases use Apple’s test system and you are not charged.
 
 </details>
 
@@ -141,7 +162,7 @@ Use Send Beta Feedback in TestFlight, or email us. Include the app version and b
 
 ## Privacy policy
 
-Effective 1 November 2026. Last updated 2 November 2026.
+Effective 1 November 2026. Last updated 21 November 2026.
 
 Brew Log is published by Pocketful Studio. This policy covers the current mobile app and this support page.
 
@@ -149,9 +170,17 @@ Brew Log is published by Pocketful Studio. This policy covers the current mobile
 
 ### Your journal stays with you
 
-Brew Log is a personal coffee journal published by Pocketful Studio. No account is required. Beans, batches, equipment, brew parameters, ratings, tasting notes, preferences and photos are stored locally on your device. The current app does not operate a service that receives your journal automatically.
+Brew Log is a personal coffee journal published by Pocketful Studio. No account is required. Beans, batches, equipment, brew parameters, ratings, tasting notes, preferences and photos are stored on your device. On iPhone they are also backed up to your own iCloud (see the next section). Pocketful Studio does not run a server that receives your journal, and we cannot open it.
 
 We do not sell your journal data, use advertising trackers, or include third-party app analytics or crash-reporting SDKs. Apple’s TestFlight services are separate and are described below.
+
+<a id="icloud-backup"></a>
+
+### Automatic backup to your iCloud
+
+On iPhone, Brew Log backs up your journal and the photos it uses to the app’s private storage in your own iCloud account. This happens on your device when you leave the app, if iCloud Drive is turned on for Brew Log. Apple stores the backup under your Apple Account and the iCloud terms you have agreed to with Apple, and protects it with encryption in transit and at rest. If you turn on Advanced Data Protection, iCloud Drive is end-to-end encrypted and not even Apple can read it. If your Apple Account is in mainland China, iCloud is operated by Guizhou-Cloud Big Data (GCBD) under Apple’s terms.
+
+Pocketful Studio never receives the backup and has no way to open it. Turning iCloud Drive off for Brew Log stops the backup. To protect your data, Brew Log copies a complete, consistent snapshot each time, a backup cut short never replaces the last good one, and an empty journal never replaces a backup. You can delete the backup in your iCloud storage settings.
 
 <a id="personalised-brewing-recommendations"></a>
 
@@ -165,17 +194,29 @@ We plan to offer optional data sharing to further personalise recommendations. T
 
 ### Photos and permissions
 
-Camera access is used when you choose to photograph a coffee bag. Photo access lets you select images and, with your permission, save photos taken in Brew Log to your photo library. You can manage permissions in your device settings. Denying access may limit those photo features; you can still enter coffees manually.
+Camera access is used when you choose to photograph a coffee bag or your coffee. Brew Log does not record sound and does not ask for the microphone. Photo access lets you select images and, with your permission, save photos taken in Brew Log to your photo library. You can manage permissions in your device settings. Denying access may limit those photo features; you can still enter coffees manually.
 
 Label text recognition and background removal run on your device. Brew Log does not upload these photos to a cloud AI service. On Android builds, Google Play services may download required ML Kit models and handle service-related information under Google’s policies.
+
+<a id="notifications"></a>
+
+### Caffeine nudge notifications
+
+The caffeine nudge is off until you turn it on. When it is on, Brew Log asks your phone for notification permission and schedules the reminders on your device, choosing the time and wording from your own journal. No push server is involved and nothing about your brewing habits leaves your phone. Turn it off in Settings or in your phone’s notification settings.
+
+<a id="pro-and-purchases"></a>
+
+### Brew Log Pro and purchases
+
+Brew Log Pro is an optional subscription sold through Apple’s App Store. Apple handles the payment, your Apple Account and the subscription itself, under Apple’s terms and privacy policy. Brew Log asks the App Store on your device whether Pro is active; we do not receive your payment details, name or email. Apple gives developers sales and subscription reports that do not identify you to us. Manage or cancel Pro in your Apple Account’s subscription settings.
 
 <a id="sharing-and-platform-services"></a>
 
 ### Sharing and platform services
 
-Sharing a card, recipe link or recipe file is an action you choose. The selected recipient or app receives that content, and its own privacy practices apply. Recipe sharing can include coffee names, coffee details, gear names and brewing parameters. Review the content before sharing. Brew Log does not automatically publish your journal.
+Sharing a card, recipe link or recipe file is an action you choose. The selected recipient or app receives that content, and its own privacy practices apply. Recipe sharing can include coffee names, coffee details, gear names and brewing parameters. Review the content before sharing. Brew Log does not automatically publish your journal. When you take a screenshot of a brew, Brew Log may offer its share card instead; it only notices that a screenshot happened and does not read or keep it. The Last brew widget on your Home Screen shows your latest brew and its photo; Brew Log hands it a copy on your device.
 
-Your operating system, app store, Google Play services and any device or photo backup services you enable may process information under their own policies. Local app data and saved photos may be included in device or cloud backups according to your settings. Brew Log does not provide its own cloud sync or backup service.
+Your operating system, app store, Google Play services and any device or photo backup services you enable may process information under their own policies. Local app data and saved photos may also be included in your device’s own backups according to your settings. Apart from the iCloud backup described above, Brew Log has no sync or server of its own.
 
 <a id="testflight-and-diagnostics"></a>
 
@@ -197,9 +238,9 @@ Email is handled through our email provider. GitHub issues are public: use email
 
 ### Keeping and deleting your data
 
-Your journal remains on your device until you delete entries or remove the app’s local data. Use the available in-app controls to delete records. To remove all local app data, use your operating system’s app-data deletion controls or uninstall the app. On iOS, choose Delete App rather than Offload App.
+Your journal remains on your device, and its backup in your iCloud, until you delete them. Use the available in-app controls to delete records. To remove all local app data, use your operating system’s app-data deletion controls or uninstall the app. On iOS, choose Delete App rather than Offload App.
 
-Photos saved to your photo library, shared copies and existing backups are separate. Manage them in those apps or services. We cannot access, export, restore or delete a journal stored only on your device.
+Photos saved to your photo library, shared copies and existing backups are separate. Manage them in those apps or services. To delete the iCloud backup, open Settings › your name › iCloud › Manage Storage and delete Brew Log’s data. We cannot access, export, restore or delete your journal or its backup.
 
 <a id="children"></a>
 
