@@ -149,7 +149,7 @@ Brew Log is currently being tested through TestFlight, and anyone with an iPhone
 <details>
 <summary><strong>Is Brew Log free? Is there a subscription?</strong></summary>
 
-Brew Log is free to download, and the free version is a complete coffee journal: log brews, read bean labels, share brew cards and see the current week in the coffee calendar. Brew Log Pro is an optional monthly subscription. It adds unlimited active beans, unlimited “Will I like it?” checks (the free version includes 3 a day), smart suggestions, your full brew history and the whole coffee calendar with month and year cards. In Australia, Pro costs A$4.99 a month for the first 3 months, then A$10.99 a month. Other countries see their local price in the app before buying. Pro renews each month until you cancel, which you can do at any time in your Apple ID subscription settings. During the TestFlight beta, purchases use Apple’s test system and you are not charged.
+Brew Log is free to download, and the free version is a complete coffee journal: log brews, read bean labels, share brew cards and see the current week in the coffee calendar. Brew Log Pro is an optional monthly subscription. It adds unlimited active beans, unlimited “Will I like it?” checks (the free version includes 3 a day), smart suggestions, your full brew history and the whole coffee calendar with month and year cards. In Australia, Pro costs A$4.99 a month for the first 3 months, then A$9.99 a month. Other countries see their local price in the app before buying. Pro renews each month until you cancel, which you can do at any time in your Apple ID subscription settings. During the TestFlight beta, purchases use Apple’s test system and you are not charged.
 
 </details>
 
