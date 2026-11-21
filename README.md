@@ -86,7 +86,7 @@ English and Simplified Chinese. There is also a bilingual mode that shows Chines
 <details>
 <summary><strong>How do coffee photos work?</strong></summary>
 
-Each brew can have a photo of your cup. The camera opens with a square viewfinder, and a photo from your library opens in a square frame you can drag and pinch to choose the part you want. The full-size square is also saved to your photo library. Tap any coffee or bag photo to see it full screen and pinch to zoom.
+Each brew can have a photo of your cup: take one with the camera or pick one from your library, and pinch to zoom while you frame it. A photo you take in Brew Log is also saved to your photo library. Tap any coffee or bag photo to see it full screen and pinch to zoom.
 
 </details>
 
