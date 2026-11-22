@@ -162,7 +162,7 @@ Use Send Beta Feedback in TestFlight, or email us. Include the app version and b
 
 ## Privacy policy
 
-Effective 1 November 2026. Last updated 21 November 2026.
+Effective 1 November 2026. Last updated 22 November 2026.
 
 Brew Log is published by Pocketful Studio. This policy covers the current mobile app and this support page.
 
@@ -196,7 +196,9 @@ We plan to offer optional data sharing to further personalise recommendations. T
 
 Camera access is used when you choose to photograph a coffee bag or your coffee. Brew Log does not record sound and does not ask for the microphone. Photo access lets you select images and, with your permission, save photos taken in Brew Log to your photo library. You can manage permissions in your device settings. Denying access may limit those photo features; you can still enter coffees manually.
 
-Label text recognition and background removal run on your device. Brew Log does not upload these photos to a cloud AI service. On Android builds, Google Play services may download required ML Kit models and handle service-related information under Google’s policies.
+Label text recognition and background removal run on your device. Brew Log does not upload these photos to a cloud AI service.
+
+After a label is read, the bean form can offer “Check on” the roaster’s website. Only if you tap it, Brew Log asks that roaster’s public website for the coffee by its name, to confirm or fill in details such as origin and process. It sends the coffee’s name and nothing else from your journal (no photos), though, as with any web visit, the site sees your device’s internet address. That site’s own privacy practices apply. Pocketful Studio does not receive the request or the answer. On Android builds, Google Play services may download required ML Kit models and handle service-related information under Google’s policies.
 
 <a id="notifications"></a>
 
